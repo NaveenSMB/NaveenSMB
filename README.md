@@ -3,7 +3,9 @@
 Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **DevOps Enthusiast** with hands-on experience in building scalable web applications and automating infrastructure.
 
 **About Me**
-
+I'm a B.E Electronics and Communication Engineering student at *KIT-Kalaignarkarunanidhi Institute of Technology*, Coimbatore.
+- Passionate about: React.js, Java, DevOps.
+- Currently learning Full stack development along with DevOps.
 
 **Languages:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -17,8 +19,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **De
 
 **Backend & DevOps:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
@@ -26,14 +26,17 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **De
 
 ## 🛠 Projects
 
-- **[Dental Disease Detection with YOLOv8](https://github.com/yourusername/dental-disease-detection)**  
+- **[Dental Disease Detection with YOLOv8]**  
 AI-powered dental X-ray classifier with real-time inference and monitoring via Docker, Prometheus & Grafana.
 
-- **[Containerized Website Deployment](https://github.com/yourusername/docker-nginx-jenkins)**  
+- **[Containerized Website Deployment]**  
 Static website hosted with Docker, Nginx, Jenkins CI/CD, and GitHub Actions.
 
-- **[Retail Billing System (Tkinter)](https://github.com/yourusername/retail-billing-system)**  
+- **[Retail Billing System (Tkinter)]**  
 GUI-based billing system built using Python and Tkinter, with local bill storage.
+
+- **[QR - Code Generator]**
+QR Code Generator built using react.js.
 
 ## 📫 Let's Connect
 
